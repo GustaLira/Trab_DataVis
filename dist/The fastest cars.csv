@@ -1,0 +1,9 @@
+﻿Rank;Car;Manufacturer;Country;Engine Type;Top Speed (mph);Top Speed (km/h);Horsepower (hp);Torque (lb-ft);0-100 km/h (approximate in sec);Price (USD);Units Produced;Price per HP (USD);Speed per HP (km/h per hp)
+1;Hennessey Venom F5;Hennessey;USA;Twin-Turbo V8;310,70;500;1817;1193;2,6;1800000;24; $990,64 ;0,28
+2;Bugatti Chiron Super Sport 300+;Bugatti;France;Quad-Turbo W16;304,77;490,48;1578;1180;2,4;3900000;30; $2.471,48 ;0,31
+3;SSC Tuatara;SSC North America;USA;Twin-Turbo V8;300,00;482,8;1750;1322;2,7;1700000;100; $971,43 ;0,28
+4;Koenigsegg Jesko;Koenigsegg;Sweden;Twin-Turbo V8;300,00;482,8;1600;1106;2,8;2800000;125; $1.750,00 ;0,30
+5;Koenigsegg Agera RS;Koenigsegg;Sweden;Twin-Turbo V8;278,00;447,39;1360;1011;2,8;2100000;25; $1.544,12 ;0,33
+6;Hennessey Venom GT;Hennessey;USA;Twin-Turbo V8;270,49;435,31;1244;1155;2,7;1250000;13; $1.004,82 ;0,35
+7;Bugatti Veyron 16.4 Super Sport;Bugatti;France;Quad-Turbo W16;267,85;431,07;1200;1106;2,5;2000000;30; $1.666,67 ;0,36
+8;Rimac C Two;Rimac Automobili;Croatia;Electric (4 motors);258,00;415;1914;1696;1,97;2100000;150; $1.097,18 ;0,22
